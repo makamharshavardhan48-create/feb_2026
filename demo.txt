@@ -1,0 +1,3 @@
+harsha is a new pythonlife student
+rollno:60
+joining date:jan,2,2026
